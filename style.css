@@ -1,0 +1,101 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.header-ful-widht {
+    width: 1200px;
+    margin: auto;
+    max-width: 100%;
+}
+
+.main-photo {
+    width: 1200px;
+    margin: auto;
+    height: 600px;
+}
+
+.vision-behind-box {
+    width: 1200px;
+    margin: auto;
+}
+
+.vision-behind-box-heding {
+    text-align: center;
+    margin-bottom: 36px;
+}
+
+a {}
+
+.vision-behind-box-heding a
+{text-decoration: none;font-size: 36px;color: black;background: white;}
+
+.vision-behind-box-text-photo {
+    width: 48%;
+}
+
+.vision-behind-box-text-text-1 {
+    width: 48%;
+    padding: 15px 0px;
+}
+
+.vision-behind-box-text {
+    display: flex;
+}
+
+.vision-behind-box-text-photo img {
+    max-width: 100%;
+    width: 550px;
+    height: 500px;
+}.vision-behind-box-text-text-1 h1 {
+    font-size: 28px;
+    line-height: 117%;
+    background: white;
+    margin-bottom: 16px;
+}
+
+.vision-behind-box-text-text-1 h2 {
+    font-size: 23px;
+    color: darkgreen;
+    margin-bottom: 43px;
+}.vision-behind-box-text-text-1 h3 {
+    font-size: 22px;
+    color: cadetblue;
+}
+.bajus-box {
+    width: 1200px;
+    margin: auto;
+    background: cornsilk;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0px 0px 0px;
+}
+
+.bajus-box-1 {
+    width: 48%;
+}
+
+
+
+.bajus-box-2 {
+    width: 51%;
+    padding: 34px 0px;
+}
+
+.bajus-box-1 img {
+    max-width: 100%;
+    width: 520px;
+    height: 500px;
+}
+.bajus-box-2 h1 {
+    font-size: 59px;
+    color: black;
+    margin-bottom: 20px;
+}.bajus-box-2 h2 {
+    font-size: 23px;
+    color: brown;
+}.vision-behind {
+    margin-bottom: 30px;
+}
