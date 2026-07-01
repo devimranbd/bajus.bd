@@ -98,4 +98,79 @@ a {}
     color: brown;
 }.vision-behind {
     margin-bottom: 30px;
+}.choose-bangladesh {
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 62px;
+}
+
+.choose-bangladesh-box h1 {
+    font-size: 57px;
+    color: black;
+    margin-bottom: 17px;
+}
+
+.choose-bangladesh-box h2 {
+    font-size: 21px;
+    line-height: 149%;
+    margin-bottom: 35px;
+}.bajus {
+    margin-bottom: 40px;
+}.choose-bangladesh-photo {
+    width: 48%;
+}
+
+.choose-bangladesh-text {
+    width: 51%;
+    padding: 70px 0px 0px 0px;
+}
+
+.choose-bangladesh-photo img {
+    max-width: 100%;
+    width: 520px;
+    baseline-shift: 500px;
+}.choose-bangladesh-item {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}.choose-bangladesh-text h1 {
+    font-size: 40px;
+    margin-bottom: 14px;
+}
+
+.choose-bangladesh-text h2 {
+    font-size: 22px;
+    color: blue;
+    line-height: 132%;
+}
+.sustainable-growth {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sustainable-growth-text {
+    width: 48%;
+    padding: 158px 0px 0px 0px;
+}
+
+.sustainable-growth-pgoto {
+    width: 44%;
+}
+
+
+.sustainable-growth-pgoto img {
+    max-width: 100%;
+    width: 520px;
+    height: 500px;
+}.sustainable-growth-text h1 {
+    margin-bottom: 16px;
+    font-size: 33px;
+    color: black;
+}
+
+.sustainable-growth-text h2 {
+    font-size: 20px;
 }
