@@ -9,6 +9,7 @@
     width: 1200px;
     margin: auto;
     max-width: 100%;
+    position: relative;
 }
 
 .main-photo {
@@ -29,8 +30,12 @@
 
 a {}
 
-.vision-behind-box-heding a
-{text-decoration: none;font-size: 36px;color: black;background: white;}
+.vision-behind-box-heding a {
+    text-decoration: none;
+    font-size: 36px;
+    color: black;
+    background: white;
+}
 
 .vision-behind-box-text-photo {
     width: 48%;
@@ -49,7 +54,9 @@ a {}
     max-width: 100%;
     width: 550px;
     height: 500px;
-}.vision-behind-box-text-text-1 h1 {
+}
+
+.vision-behind-box-text-text-1 h1 {
     font-size: 28px;
     line-height: 117%;
     background: white;
@@ -60,10 +67,13 @@ a {}
     font-size: 23px;
     color: darkgreen;
     margin-bottom: 43px;
-}.vision-behind-box-text-text-1 h3 {
+}
+
+.vision-behind-box-text-text-1 h3 {
     font-size: 22px;
     color: cadetblue;
 }
+
 .bajus-box {
     width: 1200px;
     margin: auto;
@@ -89,16 +99,23 @@ a {}
     width: 520px;
     height: 500px;
 }
+
 .bajus-box-2 h1 {
     font-size: 59px;
     color: black;
     margin-bottom: 20px;
-}.bajus-box-2 h2 {
+}
+
+.bajus-box-2 h2 {
     font-size: 23px;
     color: brown;
-}.vision-behind {
+}
+
+.vision-behind {
     margin-bottom: 30px;
-}.choose-bangladesh {
+}
+
+.choose-bangladesh {
     width: 1200px;
     margin: auto;
     text-align: center;
@@ -115,9 +132,13 @@ a {}
     font-size: 21px;
     line-height: 149%;
     margin-bottom: 35px;
-}.bajus {
+}
+
+.bajus {
     margin-bottom: 40px;
-}.choose-bangladesh-photo {
+}
+
+.choose-bangladesh-photo {
     width: 48%;
 }
 
@@ -130,11 +151,15 @@ a {}
     max-width: 100%;
     width: 520px;
     baseline-shift: 500px;
-}.choose-bangladesh-item {
+}
+
+.choose-bangladesh-item {
     width: 100%;
     display: flex;
     justify-content: space-between;
-}.choose-bangladesh-text h1 {
+}
+
+.choose-bangladesh-text h1 {
     font-size: 40px;
     margin-bottom: 14px;
 }
@@ -144,6 +169,7 @@ a {}
     color: blue;
     line-height: 132%;
 }
+
 .sustainable-growth {
     width: 1200px;
     margin: auto;
@@ -165,7 +191,9 @@ a {}
     max-width: 100%;
     width: 520px;
     height: 500px;
-}.sustainable-growth-text h1 {
+}
+
+.sustainable-growth-text h1 {
     margin-bottom: 16px;
     font-size: 33px;
     color: black;
@@ -173,4 +201,12 @@ a {}
 
 .sustainable-growth-text h2 {
     font-size: 20px;
+}
+
+.main-logo-main-menu {
+    width: 1200px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    background-color: rgba(0, 0, 0, .5);
 }
